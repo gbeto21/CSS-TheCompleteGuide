@@ -1,0 +1,14 @@
+.box1 {
+  margin: 10px 3px 6px 1px;
+  padding: 7px 9px 4px 8px;
+  border: 1px dotted darkblue;
+  width: 50%;
+  display: inline-block;
+}
+
+.box2 {
+  margin: 10px 3px 6px 1px;
+  padding: 7px 9px 4px 8px;
+  border: 1px dotted darkblue;
+  display: inline-block;
+}
