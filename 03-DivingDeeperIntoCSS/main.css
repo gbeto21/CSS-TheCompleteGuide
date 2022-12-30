@@ -56,7 +56,25 @@ body {
 
 .main-nav__item {
   display: inline-block;
+  margin: 0 16px;
 }
-/* h1 {
-    font-family: sans-serif;
-} */
+
+.main-nav__item a {
+  text-decoration: none;
+  color: #0e4f1f;
+}
+
+.main-nav__item a:hover {
+  color: white;
+}
+
+.main-nav__item a:active {
+  color: white;
+}
+
+/* 
+::after Example
+.main-nav__item a::after {
+    content: " (Link)";
+    color: red;
+  } */
