@@ -3,4 +3,4 @@ Repo from the course on Udemy [CSS-The complete Guide](https://www.udemy.com/cou
 
 
 ## Sections
-Each of the course section has it's own folder. They are named in order.
+Each chage it's named as the class where the changes were made.
