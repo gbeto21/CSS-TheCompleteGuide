@@ -8,7 +8,7 @@ body {
 }
 
 #product-overview {
-    background: #ff1b68;
+    background: url("freedom.jpg");
     /*It's already have this width value by default, but just for reference.*/
     width: 100%;
     height: 528px;
