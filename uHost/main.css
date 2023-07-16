@@ -3,6 +3,9 @@
     background-image: url("freedom.jpg");
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: left 10% top 20%;
+    /* background-position: 0% 100%; Sets manually the position */
+    /* background-position: 20px 50px; */
     /* background-size: contain; */
     /* background-size: auto 100%; */
     /* background-size: 300px 100px; */
