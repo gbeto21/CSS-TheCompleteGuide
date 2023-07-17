@@ -21,11 +21,9 @@ main {
 
 .package:hover,
 .package:active {
-    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
-    /* An alternative to solve the border left issue: 
-    adding !important:
-    border-color: #ff5454 !important; */
+    box-shadow: 2px 2px 4px rgba(0,0,0,0.5);
     border-color: #ff5454;
+    /* border-color: #ff5454 !important; */
 }
 
 .package a {
